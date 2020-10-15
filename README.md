@@ -9,4 +9,4 @@
 1. [Ahlad Kumar](https://www.youtube.com/user/kumarahlad)
 2. [Generative Adversarial Networks (GANs)](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu)
 
-## Recommended Blogs and Aricles
+## Recommended Blogs and Articles
